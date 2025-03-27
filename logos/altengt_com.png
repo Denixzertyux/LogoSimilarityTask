@@ -1,0 +1,2037 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+      <title>ALTEN Global Technologies Private Limited</title>
+      <meta content="ALTEN Global Technologies Private Limited" name="Author">
+      <meta name="keywords" content="ALTEN Global Technologies, Aerospace, ALTEN, Avionics, Automotive, Test Systems, Staff Augmentataion, Software Engineering Services, Hardware Engineering Services" >
+      <meta name="description" content="ALTEN Global Technologies Solutions Private Limited is part of the ALTEN Group of Companies with Primary focus on Aerospace, Automotive and Digital Technology Enterprise Products and Engineering Services." >
+		  <!-- favicon icon -->
+		  <link rel="shortcut icon" href="images/favicon.png" />
+		  <!-- bootstrap -->
+		  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+		  <!-- animate -->
+		  <link rel="stylesheet" type="text/css" href="css/animate.css"/>
+		  <!-- owl-carousel -->
+		  <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+		  <!-- fontawesome -->
+		  <link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+		  <!-- themify -->
+		  <link rel="stylesheet" type="text/css" href="css/themify-icons.css"/>
+		  <!-- flaticon -->
+		  <link rel="stylesheet" type="text/css" href="css/flaticon.css"/>
+		  <!-- REVOLUTION LAYERS STYLES -->
+		  <link rel="stylesheet" type="text/css" href="revolution/css/rs6.css">
+		  <!-- prettyphoto -->
+		  <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+		  <!-- shortcodes -->
+		  <link rel="stylesheet" type="text/css" href="css/shortcodes.css"/>
+		  <!-- main -->
+		  <link rel="stylesheet" type="text/css" href="css/main.css"/>
+		  <!-- responsive -->
+		  <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
+		  
+		  
+		  <!-- slideanimate --
+		  <link rel="stylesheet" type="text/css" href="css/slideanimate.css"/>
+		  -->
+		  <style type="text/css">
+			.pseudolink {    
+			   
+			   cursor:pointer; 
+			   }
+			</style>
+		
+<style type="text/css">
+   .mobileHide { display: inline;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){  .mobileHide { display: none;}}
+</style>
+		  
+		  <style>
+			 /* Make it a marquee */
+			 .marquee {
+			 width: 100%;
+			 margin: 0 auto;
+			 white-space: nowrap;
+			 overflow: hidden;
+			 box-sizing: border-box;
+			 }
+			 .marquee span {
+			 display: inline-block;
+			 padding-left: 100%;
+			 text-indent: 0;
+			 animation: marquee 25s linear infinite;
+			 }
+			 .marquee span:hover {
+			 animation-play-state: paused
+			 }
+			 /* Make it move */
+			 @keyframes marquee {
+			 0%   { transform: translate(0, 0); }
+			 100% { transform: translate(-100%, 0); }
+			 }
+			 .js-reveal {
+			 opacity: 1;
+			 transition: opacity .7s ease-in, margin-top .7s ease-out;
+			 }
+			 .js-reveal--hidden {
+			 opacity: 0;
+			 margin-top: 3em;
+			 }
+			 #accordian {
+			 /* background: #004050; */
+			 width: 194px;
+			 */margin: 50px auto 0 auto; */
+			 color: white;
+			 /* box-shadow: 0 5px 15px 1px rgba(0, 0, 0, 0.6), 0 0 200px 1px rgba(255, 255, 255, 0.5); */
+			 }
+			 #accordian h3 {
+			 background: #003040;
+			 background: linear-gradient(#003040, #002535);
+			 }
+			 #accordian h3 a {
+			 padding: 0 10px;
+			 font-size: 14px;
+			 line-height: 34px;
+			 display: block;
+			 color: white;
+			 text-decoration: none;
+			 }
+			 #accordian h3:hover {
+			 text-shadow: 0 0 1px rgba(255, 255, 255, 0.7);
+			 }
+			 #accordian li {
+			 list-style-type: none;
+			 }
+			 #accordian ul ul li a,
+			 #accordian h4 {
+			 color: white;
+			 text-decoration: none;
+			 font-size: 11px;
+			 line-height: 27px;
+			 display: block;
+			 padding: 0 15px;
+			 transition: all 0.15s;
+			 position: relative;
+			 }
+			 #accordian ul ul li a:hover {
+			 background: #003545;
+			 border-left: 5px solid lightgreen;
+			 }
+			 #accordian ul ul {
+			 display: none;
+			 }
+			 #accordian li.active>ul {
+			 display: block;
+			 }
+			 #accordian ul ul ul {
+			 margin-left: 15px;
+			 border-left: 1px dotted rgba(0, 0, 0, 0.5);
+			 }
+			 #accordian a:not(:only-child):after {
+			 content: "\f104";
+			 font-family: fontawesome;
+			 position: absolute;
+			 right: 10px;
+			 top: 0;
+			 font-size: 14px;
+			 }
+			 #accordian .active>a:not(:only-child):after {
+			 content: "\f107";
+			 }
+		  </style>
+<!--mobile show-->		 
+		<style type="text/css">
+   .mobileShow { display: none;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){ .mobileShow { display: inline;}}
+</style>
+
+<!--mobile show-->
+		 
+		 
+		 <!--linkdein-->
+		 
+		 <!--linkdein-->
+		 
+		 
+		 
+	
+      <!--google analytics tracking id-->
+        <!-- Google tag (gtag.js) --
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121428490-2"></script>
+				<script>
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+
+				  gtag('config', 'UA-121428490-2');
+				</script>
+        <!-- Google tag (gtag.js) -->
+         
+		 
+		 
+		 <!--New  Google tag (gtag.js) --
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-NEXCWXSL07"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-NEXCWXSL07');
+		</script>
+		 <!-- New  Google tag (gtag.js) -->
+		 
+		 
+		 
+         	  <!--google analytics tracking id-->	  
+			  
+			<script> 
+// Array of words 
+var words = ['Location: 6860 Dallas Pkwy Suite 200,Plano,TX 75024,USA', 'Location: Am Seedamm 44, 60489 Frankfurt am Main Germany', 'Location: Compass House, Vision Park,Cambridge,Cambridgeshire,CB24 9AD United Kingdom']; 
+// Function that executes every 2000 milliseconds 
+var t = setInterval(function() { 
+  // Random number generator 
+  var randomNumber = Math.round( Math.random() * (words.length-1) ); 
+  // Change the word in the span for a random one in the array of words 
+  $('#changing').html( words[ randomNumber ] ); 
+}, 2000); 
+</script> 
+
+<!--GA4 tag-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KBTBZM9G');</script>
+<!-- End Google Tag Manager -->
+<!--GA4 tag-->
+			  
+			  
+	<!--Cookies--
+				<style>
+#riskfloater {
+    background-color: green;
+    left: 10px;
+    position: fixed;
+    padding: 8px 16px;
+    background: green;
+    color: #ffffff;
+    cursor: pointer;
+    bottom: 10px;
+    z-index: 2;
+    // -moz-border-radius: 3px;
+    // -webkit-border-radius: 3px;
+    // border-radius: 3px; 
+}
+
+#cookiebar { 
+    position: fixed;
+    bottom: 0;
+    left: 5px;
+    right: 5px;
+    display: none;
+    z-index: 200;
+    .container {
+    
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        background-color: green;
+        color: #ffffff;
+        margin-bottom: 10px;
+        text-align: center;
+        padding: 10px;
+        overflow: hidden;
+        a{
+            color: white;
+            text-decoration: none;
+            border-bottom: 1px dotted white;
+        }
+    }
+}
+
+#cookiebarBox { 
+    position: fixed;
+    bottom: 0;
+    left: 5px;
+    right: 5px;
+    // display: none;
+    z-index: 200;
+    .container {
+    
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        background-color: #063D67;
+        color: #ffffff;
+        margin-bottom: 10px;
+        text-align: center;
+        padding: 10px;
+        overflow: hidden;
+        a{
+            color: white;
+            text-decoration: none;
+            border-bottom: 1px dotted white;
+        }
+    }
+}
+
+.cookieok {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #e8f0f3;
+    color: #186782 !important;
+    font-weight: 600;
+    // float: right;
+    line-height: 2.5em;
+    height: 2.5em;
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom-width: 0 !important;
+    cursor: pointer;
+    max-width: 200px;
+    margin: 0 auto;    
+}
+</style>
+
+    <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet" />
+    <script src="css/cookies/script.js" defer></script>
+<!--Cookies-->			  
+   </head>
+   <body>
+   
+   
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBTBZM9G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--cookies--
+<div id="cookiebarBox" class="os-animation" data-os-animation="fadeIn">
+    <div class="container risk-dismiss" style="display: block;">
+        <p>This website use cookies to help you have a superior and more relevant browsing experience on the website.</p>
+            <a id="cookieBoxok" class="cookieok" data-cookie="risk">OK</a>
+    </div>
+</div>
+<!--cookies-->
+<!--page start-->
+      <div class="page">
+      <!--header start-->
+      <header id="masthead" class="header ttm-header-style-01">
+         <!-- ttm-header-wrap -->
+         <div class="ttm-header-wrap">
+            <!-- ttm-stickable-header-w -->
+            <div id="ttm-stickable-header-w" class="ttm-stickable-header-w clearfix">
+               <!-- ttm-topbar-wrapper -->
+               <div class="ttm-topbar-wrapper clearfix">
+                  <div class="container">
+                     <div class="ttm-topbar-content">
+                        <ul class="top-contact text-left">
+                           <li id="changing"><i class="fa fa-map-marker"></i>72 and 73, Krishna Reddy Colony, Bangalore 560 071</li>
+                           <!--<li><i class="fa fa-envelope-o"></i><a href="mailto:info@example.com.com">info@accord-soft.com</a></li>-->
+                        </ul>
+                        <div class="topbar-right text-right">
+                        
+                           <div class="ttm-social-links-wrapper list-inline">
+                              <ul class="social-icons">
+                                 <li><a href="https://www.facebook.com/ALTENglobal" class=" tooltip-bottom" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                                 </li>
+                                 <li><a href="https://twitter.com/ALTENGT" class=" tooltip-bottom" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
+                                 </li>
+                                 <li><a href="https://www.linkedin.com/company/altenglobaltechnologies/" class=" tooltip-bottom" data-tooltip="Linkedin"><i class="fa fa-linkedin"></i></a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="header-btn">
+                              <a class="ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor" href="contact.html">Contact Us</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!-- ttm-topbar-wrapper end -->
+               <div id="site-header-menu" class="site-header-menu">
+                  <div class="site-header-menu-inner ttm-stickable-header" style="height: 93px;">
+                     <div class="container">
+                        <!-- site-branding -->
+                        <div class="site-branding">
+                           <a class="home-link " href="index.html" rel="home">
+                           <img id="logo-img" class="img-center lazyload mobileHide" data-src="images/logo.png" alt="logo" />
+                           </a>
+						    <a class="home-link " href="index.html" rel="home">
+                           <img id="logo-img" class="img-center lazyload mobileShow" data-src="images/logo.png" alt="logo"  style="max-height:60px;"/>
+                           </a>
+                        </div>
+                        <!-- site-branding end -->
+                        <!--site-navigation -->
+                        <div id="site-navigation" class="site-navigation">
+                            <div class="ttm-rt-contact">                                       
+                                        <div class="ttm-header-icons">                                          
+                                            <div class="ttm-header-icon ttm-header-search-link">
+                                                <a href="#" data-toggle="collapse" data-target="#accord-menu-list" aria-expanded="false"><i class="ti ti-search"></i></a>
+                                                <div class="ttm-search-overlay">
+                                                    <form method="get" class="ttm-site-searchform" action="searchresult.html">
+                                                        <div class="w-search-form-h">
+                                                            <div class="w-search-form-row">
+                                                                <div class="w-search-input">
+                                                                    <input type="search" id="search_key" pattern=".{3,}" class="field searchform-s" name="mg" title="At least 3 characters" required class="search_key" placeholder="Search for..">
+                                                                    <button type="submit" class="search-submit-btn btn">
+                                                                        <i class="ti ti-search"></i>
+                                                                    </button>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                           <div class="ttm-menu-toggle">
+                              <input type="checkbox" id="menu-toggle-form" />
+                              <label for="menu-toggle-form" class="ttm-menu-toggle-block">
+                              <span class="toggle-block toggle-blocks-1"></span>
+                              <span class="toggle-block toggle-blocks-2"></span>
+                              <span class="toggle-block toggle-blocks-3"></span>
+                              </label>
+                           </div>
+                           <nav id="menu" class="menu">
+                              <ul class="dropdown">
+                                 <li class="active">
+                                    <a href="#">COMPANY</a>
+                                    <ul>
+                                       <li><a href="aboutus.html">About ALTEN Global</a></li>
+                                       <li><a href="vision_mission_values.html">Mission, Vision, Values</a></li>
+                                      <!-- <li><a href="boardofdirectors.html">Board of Directors</a></li>
+                                       <li><a href="management.html">Management Team</a></li>
+                                                            
+                                       <li><a href="awards.html">Awards & Recognition</a></li>-->
+                                    </ul>
+                                 </li>
+                                 <li>
+                                    <a href="#">SERVICES</a>
+                                    <ul>
+                                       <li class="pseudolink" 
+										   onclick="location='aerospace.html'"><a>									   
+										Aerospace</a>
+										
+									
+                                          <ul>
+                                             <li><a href="build_spec_product_development.html">Build To Spec Product Development</a></li>
+                                             <li><a href="software_engineering_services.html">Software Engineering Services</a></li>
+                                             <li><a href="hardware_engineering_services.html">Hardware Engineering Services</a></li>
+                                             <li><a href="rf_and_microwave_eng_services.html">RF and Microwave Engineering Services</a></li>
+                                             <li><a href="fpga.html">FPGA/ASIC/DO-254 Services</a></li>
+                                             <li><a href="test_automations.html">Test Automation </a></li>
+                                             <li><a href="aerospace_iv&amp;v.html">IV &amp; V </a></li>
+                                             <li><a href="staff_augmentation_prof_services.html">Staff Augmentation</a></li>
+                                             <li><a href="obsolescence_engineering.html">Obsolescence Engineering</a></li>
+                                             <li><a href="product_certification_support.html">Product Certification Support</a></li>
+                                             <li><a href="model_based_software.html">Model Base Software Development</a></li>
+                                          </ul>
+                                       </li>
+                                       <li>
+								<li class="pseudolink" 
+										   onclick="location='automotive.html'"><a>									   
+										Automotive</a>                                        
+									
+                                          <ul>
+                                             <li><a href="system_design.html">System Design</a></li>
+                                             <li><a href="software_engineering_services_a.html">Software Engineering Services</a></li>
+                                             <li><a href="hardware_engineering_services_a.html">Hardware Engineering Services</a></li>
+                                             <li><a href="test_automations_a.html">Test Automation</a></li>
+                                             <li><a href="staff_augmentation_prof_services_a.html">Staff Augmentation</a></li>
+                                             <li><a href="functional_safety_certification.html">Functional Safety Certification</a></li>
+                                          </ul>
+                                       </li>
+									   <li class="pseudolink" 
+										   onclick="location='digital_technology.html'"><a>									   
+										Digital Technology</a> 
+										
+                                          <ul>
+                                             <li>
+                                                <a href="devops.html">DevOps</a>
+                                             </li>
+                                             <li>
+                                                <a href="cloudcomputing.html">Cloud Computing</a>
+                                             </li>
+                                             <li>
+                                                <a href="mobileandwebapplication.html">Mobile and Web Applications</a>
+                                             </li>
+                                             <li>
+                                                <a href="desktop_applications.html">Desktop Applications</a>
+                                             </li>
+                                             <li>
+                                                <a href="application_security.html">Application Security</a>
+                                             </li>
+                                             <li>
+                                                <a href="home_automation-IoT.html">Home Automation &amp; IoT</a>
+                                             </li>
+                                             <li>
+                                                <a href="embedded_linux.html">Embedded Linux </a>
+                                             </li>
+                                             <li>
+                                                <a href="embedded_android.html">Embedded Android</a>
+                                             </li>
+                                             <li>
+                                                <a href="embedded_system_security_digital_tech.html">Embedded System Security</a>
+                                             </li>
+                                             <li>
+                                                <a href="embedded_bootloader.html">Embedded Bootloader</a>
+                                             </li>
+                                             <li>
+                                                <a href="embedded_rtos.html">Embedded RTOS</a>
+                                             </li>
+                                             <li>
+                                                <a href="embedded_application.html">Embedded Application</a>
+                                             </li>
+											  <li>
+														  <a href="aiml.html">AIML</a>
+													   </li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </li>
+                                 <li>
+                                    <a href="#">INDUSTRIES</a>
+                                    <ul>
+                                       <li><a href="aerospace.html">Aerospace</a></li>
+                                       <li><a href="automotive.html">Automotive</a></li>
+                                    </ul>
+                                 </li>
+                                 <li><a href="quality.html">QUALITY</a></li>
+                                 <li>
+                                    <a href="#">DOWNLOADS</a>
+                                   <ul>                                              
+                                       <li><a href="pdfs/Corporate Brochure.pdf" target="_blank" data-original-title="Company_Brochure">Company Brochure</a></li>       
+									   <li><a href="#">Automotive Brochure</a> 
+									   <ul>
+										  <li><a href="pdfs/automotive_brochure.pdf" target="_blank" data-original-title="Automotive_Brochure">Automotive Brochure</a></li>                                              
+									   <li><a href="pdfs/ADAS_Brochure.pdf" target="_blank" data-original-title="ADAS_Brochure">ADAS Brochure</a></li> 
+									   <li><a href="pdfs/BMS_Brochure.pdf" target="_blank" data-original-title="BMS_Brochure">BMS Brochure</a></li> 
+									   <li><a href="pdfs/autosar.pdf" target="_blank" data-original-title="Autosar">AUTOSAR</a></li> 
+									   <li><a href="pdfs/FunctionalSafety.pdf" target="_blank" data-original-title="FunctionalSafety">Functional Safety</a></li>
+									   <li><a href="pdfs/WhitepaperFuctionalsafety.pdf" target="_blank" data-original-title="WhitepaperFuctionalsafety"> Whitepaper Fuctionalsafety</a></li>
+										</ul>
+										</li>
+									   
+									    <li><a href="#">Digital Technology</a> 
+									   <ul>
+										<li><a href="pdfs/digital_technology_brochure.pdf" target="_blank" data-original-title="Digital_Technology_Brochure">Digital Technology Brochure</a></li>   
+                                       <li><a href="pdfs/aiml.pdf" target="_blank" data-original-title="AIML_Brochure">AIML Brochure</a></li> 
+
+										</ul>
+										</li>
+                                       <li><a href="whitepaper.html">Whitepapers</a> 
+									   <ul>
+										   <li><a href="whitepaper_aerospace.html">Aerospace</a></li>
+										   <li><a href="whitepaper_automotive.html ">Automotive</a></li>
+										   <li><a href="whitepaper_digial_tech.html ">Digital Tech</a></li>
+										   <!--<li><a href="#">Digital Technology</a></li>-->
+										</ul>
+										</li>
+										<!--<li><a href="business_presentation.html">Business Presentation</a></li>
+										<li><a href="whitepaper.html">Documents & Whitepapers</a> -->
+										</li>
+                                    </ul>
+                                 </li>
+                                  <li><a href="faq.html">FAQs</a>                         
+                                 </li>
+                                 <li><a href="news.html">NEWS & EVENTS</a>                         
+                                 </li>
+                                 <li><a href="careers.html">CAREERS</a>                         
+                                 </li>
+                                 <li><a href="contact.html">CONTACT US</a>                         
+                                 </li>
+                              </ul>
+                           </nav>
+                        </div>
+                        <!-- site-navigation end-->
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- ttm-stickable-header-w end-->
+         </div>
+         <!--ttm-header-wrap end -->
+      </header>
+      <!--header end-->
+	  <div class="mobileHide">
+
+      <!-- START homeclassicmain REVOLUTION SLIDER 6.0.1 -->
+      <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery">
+         <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
+            <rs-slides>			
+				 <!-- rs-slide --
+               <rs-slide data-key="rs-3" data-title="Slide" data-thumb="images/aerospace_a.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                  <img src="images/paris_banner.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                        <a
+                     id="slider-2-slide-1-layer-5" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
+                     href="https://www.linkedin.com/feed/update/urn:li:activity:7071542125552676865" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:740px,468px,309px,180px;"
+                     data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
+                     data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:720;sp:500;sR:720;"
+                     data-frame_999="o:0;st:w;sR:7780;"
+                     >Visit LinkedIn Page 
+                  </a>
+               </rs-slide>
+               <!-- rs-slide -->	
+
+			    <!--Aero India  2025--
+                <rs-slide data-key="rs-1" data-title="Slide" data-thumb="images/aero_india_show_2025.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                  <img src="images/aero_india_show_2025.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                         </rs-slide>
+                <!--Aero India  2025-->
+			
+			 
+			  
+             <!--Farnborough_international_airshow--
+               <rs-slide data-key="rs-3" data-title="Slide" data-thumb="images/Farnborough_international_airshow.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                  <img src="images/Farnborough_international_airshow.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                  
+				  <a
+                     id="slider-2-slide-1-layer-5" 
+                     class="rs-layer ttm-btn ttm-btn-size-md "
+                     href="https://forms.office.com/Pages/ResponsePage.aspx?id=zdHDm8pVE061oqnp3q66P_rOmg729ElFq8HAkqOnc4VUN1hQMDZQVkdIQ1RFUUswMThMTlhVRE1ENC4u" target="_blank" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:210px,50px,40px,0;yo:630px,468px,468px,468px;"
+                     data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
+                     data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+					 
+                     data-frame_1="st:720;sp:500;sR:720;"
+                     data-frame_999="o:0;st:w;sR:7780;"
+                     ><button type="submit" class="ttm-btn ttm-btn-size-md" value="" style="background-color:#ffffff">
+                                             Book A Meeting
+                                            </button>
+                  </a>
+                   <rs-layer
+                     id="slider-2-slide-1-layer-4" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:720px,720px,40px,0;yo:310px,333px,333px,59px;"
+                     data-text="w:normal;s:26,42,45,37;l:7,60,50,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
+                     data-frame_999="o:0;st:w;sR:7940;"
+                     >OUR AEROSPACE OFFERS
+                  </rs-layer>
+				  
+				
+                  <rs-layer
+                     id="slider-2-slide-1-layer-10" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:720px,720px,40px,-409px;yo:340px,250px,237px,132px;"
+                     data-text="w:normal;s:16,16,12,7;l:27,27,23,14;fw:400,400,500,500;"
+                     data-vbility="t,t,t,f"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="e:Linear.easeNone;st:630;sp:500;sR:630;"
+                     data-frame_999="o:0;st:w;sR:7870;"
+                     ><ul>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#7ECBEE; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/build_spec_product_development.html" style="color:#ffffff">End to End HW & SW Development, Certification <br/> &emsp; &nbsp;(FAA/EASA)</a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#6CC2EA; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/fpga.html" style="color:#ffffff">Avionics HW, FPGA Design <br/>&emsp; &nbsp;  (DO-160, DO-254)</span></a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#B2E0F5; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/software_engineering_services.html" style="color:#ffffff">Embedded Software Development, <br/>  &emsp; &nbsp; Verification & Validation(DO-178C)</span></a></li>
+					 
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#7ECBEE; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/hardware_engineering_services.html" style="color:#ffffff">Safety Analysis (ARP 4754/4761)</span></a></li>
+					 
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#B3DBFB; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/model_based_software.html" style="color:#ffffff">Model Based Development (DO-331)</span></a></li>
+					 
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#CBEAF8; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/build_spec_product_development.html" style="color:#ffffff">In-house RTOS (ARINC 653)</a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#9DD7F1; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/digital_technology.html" style="color:#ffffff">Digital Technology & AI/ML</a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#6CC2EA; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/obsolescence_engineering.html" style="color:#ffffff">Obsolescence & Component Engineering</a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#B2E0F5; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/test_automation.html" style="color:#ffffff">Automated Test Equipment</a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#7ECBEE; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.altengt.com/software_engineering_services.html" style="color:#ffffff">Software Tool Qualification (DO-330)</a></li>
+					 
+					  <li><i class="fa fa-circle" aria-hidden="true" style="color:#9DD7F1; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.alten-india.com/general-engineering/" target="_blank" style="color:#ffffff;font-family: Lato, sans-serif">Mechanical Engineering</a></li>
+					 <li><i class="fa fa-circle" aria-hidden="true" style="color:#CBEAF8; font-family: Lato,sans-serif;"></i> &nbsp; <a href="https://www.alten-india.com/after-market-support/" target="_blank" style="color:#ffffff;font-family: Lato, sans-serif">After Market Services</a></li>
+					</ul></a>
+                  </rs-layer>
+              </rs-slide>
+              
+             <!--Farnborough_international_airshow--> 
+			 
+			 
+			 
+             <!--aerospace-->
+               <rs-slide data-key="rs-2" data-title="Slide" data-thumb="images/aerospace_a.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                  <img src="images/aerospace_a.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                  <a
+                     id="slider-2-slide-1-layer-2" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white"
+                     href="contact.html" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:279px,279px,210px,0;yo:609px,468px,310px,233px;"
+                     data-text="w:normal;s:15,15,12,11;l:29,29,25,30;fw:600;a:center;"
+                     data-border="bos:solid;boc:#ffffff;bow:1px,1px,1px,1px;"
+                     data-padding="t:11,11,7,4;r:35,35,22,14;b:11,11,7,4;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:760;sp:500;sR:760;"
+                     data-frame_999="o:0;st:w;sR:7740;"
+                     >Contact Us  
+                  </a>
+                  <rs-layer
+                     id="slider-2-slide-1-layer-3" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:363px,233px,124px,59px;"
+                     data-text="w:normal;s:46,42,45,37;l:7,60,50,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
+                     data-frame_999="o:0;st:w;sR:7940;"
+                     >Aerospace & Defence
+                  </rs-layer>
+                  <rs-layer
+                     id="slider-2-slide-1-layer-4" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:436px,294px,173px,104px;"
+                     data-text="w:normal;s:32,28,45,37;l:7,65,60,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="st:410;sp:800;sR:410;"
+                     data-frame_999="o:0;st:w;sR:7790;"
+                     >Cutting-Edge Engineering Solutions
+                  </rs-layer>
+				  
+				  
+                  <a
+                     id="slider-2-slide-1-layer-5" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
+                     href="aerospace.html" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:608px,468px,309px,180px;"
+                     data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
+                     data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:720;sp:500;sR:720;"
+                     data-frame_999="o:0;st:w;sR:7780;"
+                     >View More Details 
+                  </a>
+                 
+                 
+                  <rs-layer
+                     id="slider-2-slide-1-layer-10" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,-409px;yo:480px,410px,237px,132px;"
+                     data-text="w:normal;s:16,16,12,7;l:27,27,23,14;fw:400,400,500,500;"
+                     data-vbility="t,t,t,f"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="e:Linear.easeNone;st:630;sp:500;sR:630;"
+                     data-frame_999="o:0;st:w;sR:7870;"
+                     >We have over 31 years of excellence in Aerospace Product Engineering and Engineering Services</a>
+                  </rs-layer>
+              </rs-slide>
+              
+			 <!--aerospace--> 
+			  
+               <!-- digital Technology -->
+               <rs-slide data-key="rs-4" data-title="Slide" data-thumb="images/digital_technology.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                  <img src="images/digital_technology.jpg" title="slider-mainbg-004" width="1920" height="790" class="rev-slidebg" data-no-retina />
+                 <a
+                     id="slider-2-slide-1-layer-2" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white"
+                     href="contact.html" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:279px,279px,210px,0;yo:609px,468px,310px,233px;"
+                     data-text="w:normal;s:15,15,12,11;l:29,29,25,30;fw:600;a:center;"
+                     data-border="bos:solid;boc:#ffffff;bow:1px,1px,1px,1px;"
+                     data-padding="t:11,11,7,4;r:35,35,22,14;b:11,11,7,4;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:760;sp:500;sR:760;"
+                     data-frame_999="o:0;st:w;sR:7740;"
+                     >Contact Us  
+                  </a>
+                 
+					
+
+				 <rs-layer
+                     id="slider-2-slide-1-layer-3" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:363px,233px,124px,59px;"
+                     data-text="w:normal;s:46,38,45,37;l:7,60,50,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
+                     data-frame_999="o:0;st:w;sR:7940;"
+                     >Digital Technology
+                  </rs-layer>
+				  
+				  
+				  <rs-layer
+                     id="slider-2-slide-1-layer-4" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:436px,294px,173px,104px;"
+                     data-text="w:normal;s:32,28,45,37;l:7,65,60,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="st:410;sp:800;sR:410;"
+                     data-frame_999="o:0;st:w;sR:7790;"
+                     >Providing Digital Solutions for today's
+                  </rs-layer>
+				  
+				   <rs-layer
+                     id="slider-2-slide-1-layer-4" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:480px,330px,173px,104px;"
+                     data-text="w:normal;s:32,28,45,37;l:7,65,60,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="st:410;sp:800;sR:410;"
+                     data-frame_999="o:0;st:w;sR:7790;"
+                     > business requirements
+					 
+                  </rs-layer>
+
+                  <a
+                     id="slider-2-slide-1-layer-5" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
+                     href="digital_technology.html" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:615px,468px,309px,180px;"
+                     data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
+                     data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:720;sp:500;sR:720;"
+                     data-frame_999="o:0;st:w;sR:7780;"
+                     >View More Details 
+                  </a>
+                 
+                 
+                  <rs-layer
+                     id="slider-2-slide-1-layer-10" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,-409px;yo:545px,380px,237px,132px;"
+                     data-text="w:normal;s:16,16,12,7;l:27,27,23,14;fw:400,400,500,500;"
+                     data-vbility="t,t,t,f"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="e:Linear.easeNone;st:630;sp:500;sR:630;"
+                     data-frame_999="o:0;st:w;sR:7870;"
+                     >Digital technologies are electronic tools, systems,  <br/>devices and resources that generate, store or process data
+                  </rs-layer>
+               </rs-slide>
+			   
+			   <!-- digital Technology -->
+			   
+			   
+               <!-- automotive -->
+               <rs-slide data-key="rs-5" data-title="Slide" data-thumb="images/automotive.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                  <img src="images/automotive.png" title="slider-mainbg-004" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                 
+					<a
+                     id="slider-2-slide-1-layer-2" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white"
+                     href="contact.html" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:279px,279px,210px,0;yo:609px,468px,310px,233px;"
+                     data-text="w:normal;s:15,15,12,11;l:29,29,25,30;fw:600;a:center;"
+                     data-border="bos:solid;boc:#ffffff;bow:1px,1px,1px,1px;"
+                     data-padding="t:11,11,7,4;r:35,35,22,14;b:11,11,7,4;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:760;sp:500;sR:760;"
+                     data-frame_999="o:0;st:w;sR:7740;"
+                     >Contact Us  
+                  </a>
+                  <rs-layer
+                     id="slider-2-slide-1-layer-3" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:363px,233px,124px,59px;"
+                     data-text="w:normal;s:46,38,45,37;l:70,60,50,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
+                     data-frame_999="o:0;st:w;sR:7940;"
+                     >Automotive
+                  </rs-layer>
+                  <rs-layer
+                     id="slider-2-slide-1-layer-4" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:436px,294px,173px,104px;"
+                     data-text="w:normal;s:32,32,45,37;l:75,65,60,60;fw:600;"
+                     data-frame_0="x:-50,-50,-31,-19;"
+                     data-frame_1="st:410;sp:800;sR:410;"
+                     data-frame_999="o:0;st:w;sR:7790;"
+                     >Connected, Autonomous, Shared Mobility & Electrification (CASE)<strong class="ttm-textcolor-skincolor"> </strong> 
+                  </rs-layer>
+                  <a
+                     id="slider-2-slide-1-layer-5" 
+                     class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
+                     href="automotive.html" target="_self" rel="nofollow"
+                     data-type="text"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:608px,468px,309px,180px;"
+                     data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
+                     data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="st:720;sp:500;sR:720;"
+                     data-frame_999="o:0;st:w;sR:7780;"
+                     >View More Details 
+                  </a>
+                 
+                 
+                  <rs-layer
+                     id="slider-2-slide-1-layer-10" 
+                     data-type="text"
+                     data-color="#ffffff"
+                     data-rsp_ch="on"
+                     data-xy="x:l,l,l,c;xo:50px,50px,40px,-409px;yo:519px,380px,237px,132px;"
+                     data-text="w:normal;s:16,16,12,7;l:27,27,23,14;fw:400,400,500,500;"
+                     data-vbility="t,t,t,f"
+                     data-frame_0="y:50,50,31,19;"
+                     data-frame_1="e:Linear.easeNone;st:630;sp:500;sR:630;"
+                     data-frame_999="o:0;st:w;sR:7870;"
+                     >Embedded Hardware, Software Systems, Validation, Automation and HILS
+                  </rs-layer>
+               </rs-slide>
+               <!-- automotive -->
+			   
+			   
+            </rs-slides>
+         </rs-module>
+         <!-- rs-module -->
+      </rs-module-wrap>
+	  </div>
+	  
+	  <div class="mobileShow">
+	  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+  
+
+	
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="images/aerospace_a.jpg" alt="aerospace_a">
+	   <div class="carousel-caption" style="bottom: 24px;">
+    <h5 style="color:#ffffff;">Aerospace & Defence</h5>
+    <p>Cutting-Edge Engineering Solutions 
+	Center of Excellence for GNSS Technology</p>
+	<!-- <a href="aerospace.html" target="_blank" class="ttm-btn ttm-btn-bgcolor-skincolor ttm-btn-size-md mt-35 float-right">More Details&emsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></a>-->
+  </div>
+    </div>
+	
+	
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/digital_technology.jpg" alt="digital_technology">
+	  <div class="carousel-caption" style="bottom: 24px;">
+    <h5 style="color:#ffffff;">Digital Technology</h5>
+    <p>Providing Digital Solutions for
+	today's business requirements</p>
+	<!--<a href="digital_technology.html" target="_blank" class="ttm-btn ttm-btn-bgcolor-skincolor ttm-btn-size-md mt-35 float-right">More Details&emsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></a>-->
+  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/automotive.jpg" alt="automotive">
+	  <div class="carousel-caption" style="bottom: 24px;">
+    <h5 style="color:#ffffff;">Automotive</h5>
+    <p>Connected, Autonomous, 
+	Shared Mobility & Electrification (CASE)</p>
+	<!--<a href="automotive.html" target="_blank" class="ttm-btn ttm-btn-bgcolor-skincolor ttm-btn-size-md mt-35 float-right">More Details&emsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></a>-->
+  </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+	  
+	  
+      <!-- END REVOLUTION SLIDER -->
+      <!--site-main start-->
+      <div class="site-main">
+        <!-- <div class="container">
+            <p class="marquee" style="color: #e57807;font-weight: 500;"><span> <a href="news.html#CAEV_EXPO_2023" style="color: blue;">&nbsp; &nbsp; Visit us at CAEV EXPO 2023</a></span></p>
+         </div> -->
+         <!-- aboutus-section -->
+         <section class="ttm-row aboutus-section-style2 clearfix">
+            <div class="container">
+               <div class="row no-gutters align-items-center">
+                  <!-- row -->
+                  <div class="col-lg-12">
+                     <div class="spacing-4 ttm-bgcolor-grey res-991-mt-30">
+                        <!-- section title -->
+                        <div class="section-title with-desc clearfix">
+                           <div class="title-header js-reveal">
+                              <h5>About Us</h5>
+                              <h2 class="title">Welcome to ALTEN Global Technologies <!-- 31 years of <span> Excellence</span>--></h2>
+                           </div>
+                           <div class="title-desc js-reveal">
+                              <p>ALTEN Global Technologies Private Limited is part of the ALTEN Group of companies with primary focus on Aerospace, Embedded, Automotive and Enterprise products and engineering services.</p>
+								<br/>
+							 <p>Accord Group was established in 1991 by five technologists who have worked in the field of Avionics and real time embedded systems over several decades. In 2016, Accord Group was bifurcated into Accord Software and Systems Private Limited (ASSPL) & Accord Global Technology Solutions Private Limited (AGTSPL).</p>
+								<br/>
+								 <p><b>Accord Global Technology Solutions Private Limited (AGTSPL)</b> is now acquired by ALTEN and renamed as <b>ALTEN Global Technologies Private Limited (ALTEN GT).</b></p>
+								<br/>
+							 <p>Over the years we have charted an Impressive Record in Customer Satisfaction, Innovation, Sales, and Profitability. The success of the company was made possible with Continuous Enhancement of Competence in Technology, Quality Processes, Project Management and Customer Focus. <a href="aboutus.html" style="color:#07b5af"> Read More...</a></p>
+                           </div>
+                        </div>
+                        <!-- section title end -->
+                        <!-- row -->
+                        <div class="row no-gutters mt-20 js-reveal">
+                           <div class="col-md-4 col-lg-4 col-sm-4">
+                              <!--  featured-icon-box --> 
+                              <div class="featured-icon-box style3 left-icon icon-align-top">
+                                 <img src="images/cmmi.jpg" class="img-fluid" alt="cmmi">
+                              </div>
+                              <!--  featured-icon-box END -->
+                           </div>
+                           <div class="col-md-4 col-lg-4 col-sm-4 js-reveal">
+                              <!--  featured-icon-box --> 
+                              <div class="featured-icon-box style3 left-icon icon-align-top">
+                                  <img src="images/as9100.png" class="img-fluid" alt="as9100">
+                              </div>
+                           </div>
+						   <div class="col-md-4 col-lg-4 col-sm-4 js-reveal">
+                              <!--  featured-icon-box --> 
+                              <div class="featured-icon-box style3 left-icon icon-align-top">
+                                   <img src="images/isocertified.png" class="img-fluid" alt="isocertified">
+                              </div>
+                           </div>
+                        </div>
+                        <!-- row END-->
+                     </div>
+                  </div>
+               </div>
+               <!-- row end -->
+               <!-- row -->
+               <div class="row">
+               </div>
+               <!-- row end-->
+            </div>
+         </section>
+         <!-- aboutus-section end -->
+		 
+		 
+         <!-- history-section -->
+         <section class="ttm-row history-section bg-img3 ttm-bgcolor-grey ttm-bg ttm-bgimage-yes clearfix">
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+            <div class="container">
+               <div class="row">
+                  <!-- row -->
+                  <div class="col-lg-8 offset-lg-2">
+                     <!-- section title -->
+                     <div class="section-title with-desc text-center clearfix js-reveal">
+                        <div class="title-header">
+                           <h2 class="title">Our <span>Services</span></h2>
+                        </div>
+                     </div>
+                     <!-- section title end -->
+                  </div>
+               </div>
+               <!-- row end -->
+               <!-- row -->
+               <div class="row">
+                  <div class="history-slide owl-carousel" data-item="4" data-nav="false" data-dots="false" data-auto="true">
+                     <div class="ttm-history-box-wrapper js-reveal">
+                        <!-- ttm-history-box-wrapper  --> 
+                        <div class="ttm-history-box-icon-wrapper">
+                           <!-- ttm-history-box-icon-wrapper  --> 
+                           <!--  featured-icon-box --> 
+                           <div class="featured-icon-box">
+                              <div class="featured-icon">
+                                 <!--  featured-icon -->
+                                 <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
+                                 <img class="img-fluid" src="images/icons/Embedded_systems_icon.png" alt="Embedded_systems_icon">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="ttm-history-box-border"></div>
+                        <!-- ttm-history-box-border  --> 
+                        <div class="ttm-history-box-details ">
+                           <div class="ttm-historybox-title">
+                              <h5>Embedded Systems</h5>
+                           </div>
+                           <!-- historybox-title  --> 
+                           <div class="ttm-historybox-description">
+                              <!-- description  --> 
+                             Design, Development, Verification and Certification of Complex and Diverse Embedded Systems
+                           </div>
+                           <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="embedded_systems_accord.html">Read More <i class="ti ti-angle-double-right"></i></a>
+                        </div>
+                     </div>
+                     <!-- ttm-history-box-wrapper  END-->
+                     <div class="ttm-history-box-wrapper js-reveal">
+                        <!-- ttm-history-box-wrapper  --> 
+                        <div class="ttm-history-box-icon-wrapper">
+                           <!-- ttm-history-box-icon-wrapper  --> 
+                           <!--  featured-icon-box --> 
+                           <div class="featured-icon-box">
+                              <div class="featured-icon">
+                                 <!--  featured-icon -->
+                                 <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
+                                   <img class="img-fluid" src="images/icons/staff_augmentation_icon.png" alt="staff_augmentation_icon">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="ttm-history-box-border"></div>
+                        <!-- ttm-history-box-border  --> 
+                        <div class="ttm-history-box-details">
+                           <div class="ttm-historybox-title">
+                              <h5>SW Engineering Services</h5>
+                           </div>
+                           <!-- historybox-title  --> 
+                           <div class="ttm-historybox-description">
+                              <!-- description  --> 
+                              Software Design, Development, Verification and Certification services par excellence across different verticals
+                           </div>
+                           <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="sw_eng_services_accord.html">Read More <i class="ti ti-angle-double-right"></i></a>
+                        </div>
+                     </div>
+                     <div class="ttm-history-box-wrapper js-reveal">
+                        <div class="ttm-history-box-icon-wrapper">
+                           <!--  featured-icon-box --> 
+                           <div class="featured-icon-box">
+                              <div class="featured-icon">
+                                 <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
+                                    <img class="img-fluid" src="images/icons/hardware_eng_icon.png" alt="hardware_eng_icon">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="ttm-history-box-border"></div>
+                        <div class="ttm-history-box-details">
+                           <div class="ttm-historybox-title">
+                              <h5>HW Engineering Services</h5>
+                           </div>
+                           <div class="ttm-historybox-description">
+                              Reliable Hardware Design, Verification and Qualification services with support for Production
+                           </div>
+                           <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="hw_eng_services_accord.html">Read More <i class="ti ti-angle-double-right"></i></a>
+                        </div>
+                     </div>
+                     <div class="ttm-history-box-wrapper js-reveal">
+                        <div class="ttm-history-box-icon-wrapper">
+                           <!--  featured-icon-box --> 
+                           <div class="featured-icon-box">
+                              <div class="featured-icon">
+                                 <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
+                                  <img class="img-fluid" src="images/icons/test_systems_icon.png" alt="test_systems_icon">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="ttm-history-box-border"></div>
+                        <div class="ttm-history-box-details">
+                           <div class="ttm-historybox-title">
+                              <h5>Test Systems</h5>
+                           </div>
+                           <div class="ttm-historybox-description"> 
+                              Design and Development of Automated and Cost Saving Test Systems custom-made for different applications
+                           </div>
+                           <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="test_systems_accord.html">Read More <i class="ti ti-angle-double-right"></i></a>
+                        </div>
+                     </div>
+                     <div class="ttm-history-box-wrapper js-reveal">
+                        <div class="ttm-history-box-icon-wrapper">
+                           <div class="featured-icon-box">
+                              <div class="featured-icon">
+                                 <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
+                                    <img class="img-fluid" src="images/icons/staff_augmentation_icon.png" alt="staff_augmentation_icon">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="ttm-history-box-border"></div>
+                        <div class="ttm-history-box-details">
+                           <div class="ttm-historybox-title">
+                              <h5>Staff Augmentation</h5>
+                           </div>
+                           <!-- historybox-title  --> 
+                           <div class="ttm-historybox-description">
+                              Highly Skilled extended Management and Engineering Teams to meet Program Goals
+                           </div>
+                           <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="staff_augumentation_accord.html">Read More <i class="ti ti-angle-double-right"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- history-section end -->
+         <br/>
+         <br/>
+         <!-- topzero-padding-section -->
+         <section class="ttm-row zero-padding-section mt_95 res-991-mt-0 clearfix js-reveal">
+            <div class="container">
+               <div class="row no-gutters">
+                  <div class="col-lg-12">
+                     <div class="ttm-bgcolor-skincolor ttm-bg ttm-col-bgcolor-yes ttm-right-span">
+                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                           <div class="ttm-bg-layer-inner"></div>
+                        </div>
+                        <div class="layer-content">
+                           <div class="spacing-6 ttm-textcolor-white">
+                              <h3 class="mb-5">Our Advantage</h3>
+                              <p class="mb-0">Product and Engineering Services company with an impressive track record in Aerospace, Automotive and Digital Verticals. ALTEN is a one stop solution provider offering customers with a competitive advantage by lowering costs and ensuring quick time-to-market.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- topzero-padding-section -->
+         <!-- tab-section -->
+         <section class="ttm-row tab-section clearfix js-reveal">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12">
+                     <!-- section title -->
+                     <div class="section-title text-center with-desc clearfix" style="text-align:center">
+                        <div class="title-header">
+                           <h2 class="title">Explore <span>Further </span></h2>
+                        </div>
+                     </div>
+                     <!-- section title end -->
+                  </div>
+               </div>
+               <!-- row end -->
+               <!-- row -->
+               <div class="row js-reveal">
+                  <div class="col-lg-12">
+                     <div class="ttm-tabs text-center ttm-tab-style-classic style1">
+                        <ul class="tabs mb-20">
+                           <!-- tabs -->
+						   <li class="tab active"><a href="#"> <img  src="images/icons/aerospace.png" alt="aerospace"><br/> Aerospace </a></li>
+                           <li class="tab"><a href="#"> <img  src="images/icons/automotive.png" alt="automotive"><br/> Automotive </a></li>
+                           
+                           <li class="tab"><a href="#"> <img  src="images/icons/digital technology.png" alt="digital technology"><br/>
+						Digital Technology </a></li>
+                        </ul>
+                        <!-- tabs end-->
+                        <div class="content-tab width-100 box-shadow">
+                           <!--content-tabs -->
+						   <div class="content-inner js-reveal ">
+                              <div class="row ">
+                                 <div class="col-lg-3">
+                                    <div class="grey-border text-left">
+                                       <div class="ttm_single_image-wrapper with-border15">
+                                          <img class="img-fluid grey-boder" src="images/aerospace_1.jpg"  alt="single-img-three">
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="col-lg-8">
+                                    <div class="text-left res-991-mt-30">
+                                       <h3 class="title fs-30">Aerospace</h3>
+                                       <p >ALTEN has over 31 years of inspiring participation in Aerospace Engineering, highlighted with many successful partnerships, providing Engineering Services and contributing to many key Aircraft Programs. The net result is an Organization that is enriched with skills in a variety of Aerospace domains. ALTEN's footprint is constantly increasing with the inclusion of new domains and service areas.</p>
+                                       <p class="mt-35">Get in touch now for your Aerospace Project/Program Needs. We are eager to support! <a href="contactus.html">Contactus</a></p>
+                                       <div class="row no-gutters mt-35 box-shadow spacing-11">
+                                          <div class="col-md-6 col-lg-6 col-sm-6">
+                                     
+                                             <ul class="ttm-list ttm-list-style-icon">
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="build_spec_product_development.html">Build to Spec Product Development</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="software_engineering_services.html">SW Engineering Services</a></li>
+												<li><i class="fa fa-square" aria-hidden="true"></i><a href="hardware_engineering_services.html">HW Engineering Services</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="fpga.html">FPGA/ASIC/DO-254 Services</a></li>
+                                               </ul>
+                                          </div><br/>
+                                          <div class="col-md-6 col-lg-6 col-sm-6">                                           
+                                             <ul class="ttm-list ttm-list-style-icon">											 
+                                               <li><i class="fa fa-square" aria-hidden="true"></i><a href="test_automations.html">Test Automation</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="obsolescence_engineering.html">Obsolescence Engineering</a></li>
+                                               <li><i class="fa fa-square" aria-hidden="true"></i> <a href="product_certification_support.html">Product Certification</a></li>                                           
+											   <li><i class="fa fa-square" aria-hidden="true"></i><a href="aerospace_iv&v.html">IV & V</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="staff_augmentation_prof_services.html">Staff Augmentataion</a></li>
+                                              </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <!-- content-inner -->
+						   
+                           <div class="content-inner">
+                              <div class="row">
+                                 <div class="col-lg-8">
+                                    <div class="text-left">
+                                       <h3 class="title fs-30">Automotive</h3>
+                                       <p class="mt-35">ALTEN has good experience in Design, Development, Verification and Certification of Automotive products. ALTEN offers services in the following areas in Automotive domain:</p>
+                                       <p class="mt-35">Get in touch now for your Automotive Needs. We are eager to support! <a href="contactus.html">Contactus</a></p>
+                                       <div class="row no-gutters mt-35 js-reveal box-shadow spacing-11">
+                                          <div class="col-md-6 col-lg-6 col-sm-6">
+                                             <h5>Service Areas</h5>
+                                             <ul class="ttm-list ttm-list-style-icon js-reveal">
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="system_design.html">System Design </a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="software_engineering_services_a.html">SW Engineering Services</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="hardware_engineering_services_a.html">HW Engineering Services</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="test_automations_a.html">Test Automation</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="staff_augmentation_prof_services_a.html">Staff Augmentation</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="functional_safety_certification.html">Functional Safety and certification</a></li>
+                                             </ul>
+                                          </div>
+                                          <div class="col-md-6 col-lg-6 col-sm-6">
+                                             <h5>Domain Expertise</h5>
+                                             <ul class="ttm-list ttm-list-style-icon js-reveal">
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="bodycontrolmodule.html">Body Control Module</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="telematics.html">Telematic Systems</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="functionalsafety.html">Functional Safety</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="communication_protocol.html">Communication Protocol Stacks</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_security.html">Automotive Bootloader</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="automotive_bootloader.html">AutoSar</a></li>
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="col-lg-3">
+                                    <div class="grey-border res-991-mt-30 text-left">
+                                       <!-- ttm_single_image-wrapper -->
+                                       <div class="ttm_single_image-wrapper with-border15">
+                                          <img class="img-fluid grey-boder" src="images/automotive_1.jpg" alt="single-img-three">
+                                       </div>
+                                       <!-- ttm_single_image-wrapper end -->
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           
+                           <!-- content-inner -->
+                           <div class="content-inner active js-reveal">
+                              <div class="row">
+							  <div class="col-lg-3">
+                                    <div class="grey-border res-991-mt-30 text-left">
+                                       <!-- ttm_single_image-wrapper -->
+                                       <div class="ttm_single_image-wrapper with-border15">
+                                          <img class="img-fluid grey-boder" src="images/dig_1.jpg" title="single-img-three" alt="single-img-three">
+                                       </div>
+                                       <!-- ttm_single_image-wrapper end -->
+                                    </div>
+                                 </div>
+                                 <div class="col-lg-8">
+                                    <div class="text-left">
+                                       <h3 class="title fs-30">Digital Technology</h3>
+                                       <p class="mt-35">Digital technologies are electronic tools, systems, devices and resources that generate, store or process data. Well known examples include social media, online games, multimedia and mobile phones. Digital learning is any type of learning that uses technology</p>
+                                       <div class="row no-gutters mt-35 box-shadow spacing-11">
+                                          <div class="col-md-6 col-lg-6 col-sm-6">
+                                             <ul class="ttm-list ttm-list-style-icon">
+                                                 <li><i class="fa fa-square" aria-hidden="true"></i><a href="devops.html">DevOps</a></li>
+                                               <li><i class="fa fa-square" aria-hidden="true"></i> <a href="cloudcomputing.html">Cloud Computing</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="mobileandwebapplication.html">Mobile and Web Applications</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="desktop_applications.html">Desktop Applications</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="application_security.html">Application Security</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="home_automation-IoT.html">Home Automation & IOT</a></li>
+                                             </ul>
+                                          </div>
+                                          <div class="col-md-6 col-lg-6 col-sm-6">
+                                             <ul class="ttm-list ttm-list-style-icon">
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_linux.html">Embedded Linux</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_android.html">Embedded Android</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_system_security_digital_tech.html">Embedded System Security</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_bootloader.html">Embedded Bootloader</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_rtos.html">Embedded RTOS</a></li>
+                                                <li><i class="fa fa-square" aria-hidden="true"></i><a href="embedded_application.html">Embedded Application</a></li>
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+		 
+		 <br/>
+		 <br/>
+		 
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		 
+		 
+		 
+		 
+         <!-- first-row-title-section -->
+         <section class="ttm-row first-row-title-section ttm-bgcolor-darkgrey ttm-bg ttm-bgimage-yes clearfix" style="padding-top: 60px;
+            padding-bottom: 60px;">
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+            <div class="container js-reveal">
+               <div class="row">
+                  <!-- row -->
+                  <div class="col-lg-8 offset-lg-2">
+                     <div class="text-center">
+                        <!-- section-title -->
+                        <div class="section-title row-title clearfix">
+                           <div class="title-header">
+                              <h2 class="title">Our Quality <span>Policy</span></h2>
+                           </div>
+                           <p class="mt-35">One of the factors behind our success is its never-ending pursuit of better quality in all its endeavors. As an ongoing activity to improve the quality process, We have adopted newer and better Quality standards to satisfy its customers and employees.</p>
+                        </div>
+                        <!-- section-title end -->
+                        <div class="mt-40">
+                           <a href="https://accord-global.com/quality.html" class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white">Read More</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- first-row-title-section END-->
+		
+		
+		
+
+         <!-- tab-section -->
+         <section class="ttm-row tab-section clearfix js-reveal">
+            <div class="container">
+               <div class="">
+                  <h3>News & Events</h3>
+                  <div class="row js-reveal">
+					
+					
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/ai workshop ins vasura creative.jpg" alt="AI_EXPO_WORKSHOP_2024">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html"> IBM ASWC, an inhouse philanthropic committee  </a> </h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					
+					
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/diehl_aerospace_team.jpg" alt="diehlaerospace">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html"> IBM ASWC, an inhouse philanthropic committee  </a> </h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/blooddonation2024.jpg" alt="blood_donation2024">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html"> IBM ASWC, an inhouse philanthropic committee  </a> </h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					
+					
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/IBM_ELM_TechXchange.jpg" alt="IBM_ELM_TechXchange">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">ALTEN Global Technologies Private Limited recently  </a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					
+						<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/FIA_2024.jpg" alt="FIA_2024">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">The Farnborough International Air show welcomed commercial </a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/CMMI_LEVEL5.jpg" alt="CMMI_LEVEL5">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">ALTEN Global Technologies achieves prestigious CMMI L5 certification.</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					<!--
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/Sustainable Skies World Summit1.jpg" alt="Sustainable_Skies_World_Summit">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">Sustainable Skies World Summit 2024</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div> -->
+					<!--
+					<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/Space-Comm Expo.jpg" alt="Space_Comm_Expo">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div> 
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">Space-Comm Expo</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div> -->
+					<!--
+						<div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/WEAF2024.jpg" alt="WEAF2024">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">WEAF ANNUAL EXPO</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div> -->
+					 <!--
+					 <div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/Tech & Innovation.png" alt="Tech & Innovation">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">Asia's premier Tech & Innovation Summit 2024</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div> -->
+					 
+					 <!--
+					  <div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">                      
+                           <div class="product-thumbnail">                             
+                              <img class="img-fluid w-100" src="images/news/IoT_show_2023.png" alt="IoT_show_2023">
+                              <div class="ttm-shop-icon">                            
+                                 <div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                         
+                           <div class="product-content text-left">                           
+                              <div class="product-title">                           
+                                 <h2><a href="news.html">India Electronics Week and smart BHARAT</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div> -->
+					 
+						
+					 
+					 <!--
+				  <div class="col-lg-2 col-md-6 col-sm-6 js-reveal">
+                        <div class="product js-reveal">
+                           <!-- product -->
+                          <!-- <div class="product-thumbnail">
+                              <!-- product-thumbnail -->
+                             <!-- <img class="img-fluid w-100" src="images/news/Advanced Engineering UK 2022.jpg" alt="Advanced Engineering UK 2022">
+                              <div class="ttm-shop-icon">
+                                 <!-- ttm-shop-icon -->
+                                 <!--<div class="product-btn add-to-cart-btn"><a href="news.html">Read More</a></div>
+                              </div>
+                           </div>
+                           <!-- product-thumbnail end -->
+                           <!--<div class="product-content text-left">
+                             <!-- <!-- product-content -->
+                              <!--<div class="product-title">
+                                 <!-- product-title -->
+                                 <!--<h2><a href="news.html">Advanced Engineering UK 2022</a></h2>
+                              </div>
+                           </div>
+                        </div>
+                     </div> -->
+				  
+                    
+                     
+                     
+					 
+					 <!--
+                     <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="product js-reveal">
+                           <div class="product-thumbnail">
+                              <img class="img-fluid w-100" src="images/news/dsei.jpg" alt="dsei">
+                              <div class="ttm-shop-icon">
+                             
+                                 <div class="product-btn add-to-cart-btn"><a href="#">Read More</a></div>
+                              </div>
+                           </div>                          
+                           <div class="product-content text-left"> 
+                                 <h2><a href="news.html">Thank You for visiting us at DSEI 2019</a></h2>
+                              </div>
+                           </div>
+                        </div>
+						-->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </div>
+      <footer class="footer widget-footer clearfix js-reveal">
+         <div class="first-footer ttm-bgcolor-skincolor ttm-bg ttm-bgimage-yes bg-img1">
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+            <div class="container">
+               <div class="row align-items-md-center">
+                  <div class="col-lg-4 col-md-4 col-sm-12 order-md-2">
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-6 order-md-1">
+                     <div class="text-left">
+                        <div class="featured-icon-box left-icon icon-align-top">
+                           <div class="featured-icon">
+                              <div class="ttm-icon ttm-icon_element-color-white ttm-icon_element-size-md">
+                                 <i class="ti ti-location-pin"></i>
+                              </div>
+                           </div>
+                           <div class="featured-content">
+                              <div class="featured-desc">
+                                 <p class="mt-35">72 and 73, Krishna Reddy Colony, Bangalore 560 071</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-6 order-md-3">
+                     <div class="text-sm-right">
+                        <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="mailto:contact.agt@alten.com" title="" style="text-transform: lowercase;"> &nbsp;contact.agt@alten.com <i class="fa fa-envelope-o"></i></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <div class="second-footer ttm-textcolor-white" style="background-color:#043962;">
+		 <br/>
+		 <br/>
+            <div class="container">
+               <div class="row">
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                     <div class="widget widget_text  clearfix" >
+                        <h3 class="widget-title" style="text-align: center;padding-bottom:0px">About Our Company</h3>
+						<div class="text-center">
+						<img src="images/footer_logo.png" class="img-fluid mx-auto d-block" alt="..." style="height:100px">
+						</div>&emsp;
+                        <div class="textwidget widget-text">
+                           ALTEN Global Technologies Private Limited is part of the ALTEN Group of companies with primary focus on Aerospace, Embedded, Automotive and Enterprise products and engineering services.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                     <div class="widget widget_text clearfix">
+                        <h3 class="widget-title">Services</h3>
+                        <div id="accordian" >
+                           <ul>
+                              <li>
+                                 <h3><a href="#">
+								 <i class="fa fa-lg fa-car"></i>&nbsp;Automotive</a><span></span></h3>
+                                 
+								 <ul>
+                                    <li>
+                                       <a href="#">Service Areas</a>									   
+                                       <ul>
+                                          <li><a href="system_design.html">System Design</a></li>
+                                          <li><a href="software_engineering_services_a.html">Sw Eng Services</a></li>
+                                          <li><a href="hardware_engineering_services_a.html">Hw Eng Services</a></li>
+                                          <li><a href="test_automations_a.html">Test Automation</a></li>
+                                          <li><a href="staff_augmentation_prof_services_a.html">Staff Augmentataion</a></li>
+                                          <li><a href="functional_safety_certification.html">Functional Safety & Certification</a></li>
+                                       </ul>
+                                    </li>
+                                    <li>
+                                       <a href="#">Domain Expertise</a>
+                                       <ul>
+                                          <li><a href="bodycontrolmodule.html">Body Control Module</a></li>
+                                          <li><a href="telematics.html">Telematic Systems</a></li>
+                                          <li><a href="functionalsafety.html">Functional Safety</a></li>
+                                          <li><a href="communication_protocol.html">Communication Protocol Stacks</a></li>
+                                          <li><a href="embedded_security.html">Embedded Security</a></li>
+                                          <li><a href="automotive_bootloader.html">Automotive Bootloader</a></li>
+                                          <li><a href="autosar.html">AutoSar</a></li>
+                                       </ul>
+                                    </li>
+                                 </ul>
+                              </li>
+                              <li>
+                                 <h3><a href="#"><i class="fa fa-lg fa-fighter-jet"></i>&nbsp; Aerospace</a><span></span></h3>
+                                 <ul>
+                                    <li>
+                                       <a href="#">Service Areas</a>
+                                       <ul>
+                                          <li><a href="build_spec_product_development.html">Build-To-Spec-Product Development</a></li>
+                                          <li><a href="software_engineering_services.html">Sw Eng Services</a></li>
+                                          <li><a href="hardware_engineering_services.html">Hw Eng Services</a></li>
+                                          <li><a href="fpga.html">FPGA/ASIC/DO-254 Services</a></li>
+                                          <li><a href="test_automations.html">Test Automation</a></li>
+                                          <li><a href="obsolescence_engineering.html">Obsolescence Engineering</a></li>
+                                          <li><a href="product_certification_support.html">Product Certification</a></li>
+                                          <li><a href="aerospace_iv&v.html">IV & V</a></li>
+                                          <li><a href="staff_augmentation_prof_services.html">Staff Augmentation</a></li>
+                                       </ul>
+                                    </li>
+                                    <li>
+                                       <a href="#">Aircraft Programs</a>
+                                       <ul>
+                                          <li><a href="airbus380.html">Airbus 380</a></li>
+                                          <li><a href="airbus350xwb.html">Airbus 350 XWB</a></li>
+                                          <li><a href="airbus400m.html">Airbus 400M</a></li>
+                                          <li><a href="airbus320.html">Airbus 320</a></li>
+                                          <li><a href="boeing787.html">Boeing 787 Dreamliner</a></li>
+                                          <li><a href="mitsubishi_regional_jet.html">Mitsubishi Regional Jet</a></li>
+                                          <li><a href="ilatus_PC_24.html">Pilatus PC 24</a></li>
+                                          <li><a href="embraer_KC_390.html">Embraer KC-390</a></li>
+                                          <li><a href="gulfstream_G650.html">Gulfstream G650, GVII</a></li>
+                                          <li><a href="light_combat_aircraft.html">Light Combat Aircraft</a></li>
+                                          <li><a href="N90_rotorcraft.html">NH-90 Rotorcraft</a></li>
+                                          <li><a href="light_helicopter.html">Advanced Light Helicopter</a></li>
+                                       </ul>
+                                    </li>
+                                    <li>
+                                       <a href="#">Domain Expertise</a>
+                                       <ul>
+                                          <li><a href="domain_expertise.html">Global Navigation Satellite Systems</a></li>
+                                          <li><a href="ads_b.html">ADS-B</a></li>
+                                          <li><a href="avionics.html">Avionics Real Time Operating System</a></li>
+                                          <li><a href="acars_cpdlc_data_links.html">ACARS/CPDLC Data Links</a></li>
+                                          <li><a href="display_units.html">Display Units</a></li>
+                                          <li><a href="data_loader.html">Data Loader</a></li>
+                                          <li><a href="data_concentrator.html">Data Concentrator Units / (AIDs)</a></li>
+                                       </ul>
+                                    </li>
+									
+									  <li>
+                                       <a href="#">Products and Solutions</a>
+                                       <ul>
+                                          <li><a href="mgnss_ip.html">MGNSS IP</a></li>
+                                          <li><a href="sbc.html">Single Board Computer</a></li>
+                                          <li><a href="oasys.html">OASYS</a></li>
+                                          <li><a href="fpga_ip.html">FPGA IP</a></li>
+                                       </ul>
+                                    </li>
+                                 </ul>
+                              </li>
+                              <li>
+                                 <h3><a href="#"><i class="fa fa-lg fa-laptop"></i> &nbsp;Digital Technology</a><span></span></h3>
+                                 <ul>
+                                    <li><a href="devops.html">DevOps</a></li>
+                                    <li><a href="cloudcomputing.html">Cloud Computing</a></li>
+                                    <li><a href="mobileandwebapplication.html">Mobile & Web Applications</a></li>
+                                    <li><a href="desktop_applications.html">Desktop Applications</a></li>
+                                    <li><a href="application_security.html">Application Security</a></li>
+                                    <li><a href="home_automation-IoT.html">Home Automation & IOT</a></li>
+                                    <li><a href="embedded_linux.html">Embedded Linux</a></li>
+                                    <li><a href="mbedded_android.html">Embedded Android</a></li>
+                                    <li><a href="embedded_system_security_digital_tech.html">Embedded System Security</a></li>
+                                    <li><a href="embedded_bootloader.html">Embedded Bootloader</a></li>
+                                    <li><a href="embedded_rtos.html">Embedded RTOS</a></li>
+                                    <li><a href="embedded_application.html">Embedded Application</a></li>
+									 <li><a href="aiml.html">AIML</a></li>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                     <div class="widget widget_text clearfix">
+                        <h3 class="widget-title">Quick Links</h3>
+                        <ul id="menu-footer-services">
+                           <li><a href="aboutus.html" style="color: white;">About Us</a></li>
+                           <li><a href="quality.html" style="color: white;">Quality</a></li>
+                           <li><a href="faq.html" style="color: white;">FAQs</a></li>
+                           <li><a href="news.html" style="color: white;">News & Events</a></li>
+                           <li><a href="contact.html" style="color: white;">Contact Us</a></li>
+                        </ul>
+						   <h5 class="mb-20">Follow Us On</h5>
+                           <div class="social-icons circle social-hover">
+                              <ul class="list-inline">
+                                 <li><a href="https://www.facebook.com/ALTENglobal" class=" tooltip-bottom" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                                 </li>
+                                 <li><a href="https://twitter.com/ALTENGT" class=" tooltip-bottom" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
+                                 </li>
+                                 <li><a href="https://www.linkedin.com/company/altenglobaltechnologies/" class=" tooltip-bottom" data-tooltip="Linkedin"><i class="fa fa-linkedin"></i></a>
+                                 </li> </ul>
+                           </div>
+                     </div>
+                  </div>
+                  
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                     <div class="widget flicker_widget clearfix">
+                        <h3 class="widget-title">Reach Us</h3>
+                        <div class="textwidget widget-text">
+                           Do you have any questions, suggestions or comments?
+                           <br/>Email:contact.agt@alten.com<br/><br/>
+						   <h3 class="widget-title" style="margin-bottom: 0px;">Call Us</h3>						   
+                           <ul id="menu-footer-services">
+                              <li><a href="tel:80-4546-3000" style="color: white;">India - +91 - 80 4546 3000</a></li>
+                              <li><a href="tel:+1 305-723-9505" style="color: white;">North America - +1-469-594-4027</a></li>
+                              <li><a href="tel:+49 69 710 455 473" style="color: white;">Germany - +49 69 710 455 473</a></li>
+                              <li><a href="tel:+44 (0) 1223 393 650" style="color: white;">United Kingdom - +44 (0) 1223 393 650</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="bottom-footer-text ttm-bgcolor-darkgrey ttm-textcolor-white">
+            <div class="container">
+               <div class="row copyright">
+                  <div class="col-md-6">
+                     <div class="">
+                        <span>© 2025 ALTEN Global Technologies Private Limited. All rights reserved.</span>
+                     </div>
+                  </div>
+                  <div class="col-md-6">
+                     <div class="text-md-right res-767-mt-10">
+                        <div class="d-lg-inline-flex">
+                           <ul id="menu-footer-menu" class="footer-nav-menu">
+							  <li><a href="aboutus.html">About Us</a></li>
+                              <!--<li><a href="#">Privacy & Policy</a></li>-->
+                              <li><a href="terms&conditions.html">Terms & Conditions</a></li>
+							  <li><a href="privacy_policy.html">Privacy Policy</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!--footer end-->
+	    <script>
+	  
+	  <!--search-->
+/*------------------------------------------------------------------------------*/
+/* TopSearch
+/*------------------------------------------------------------------------------*/
+    
+    jQuery( ".ttm-header-search-link a" ).addClass('sclose');   
+    
+    jQuery( ".ttm-header-search-link a" ).on('click', function(event ) {  
+  
+        jQuery(".field.searchform-s").focus();  
+        
+        if (jQuery('.ttm-header-search-link a').hasClass('sclose')) {   
+            jQuery( ".ttm-header-search-link a i" ).removeClass('ti-search').addClass('ti-close');
+            jQuery(this).removeClass('sclose').addClass('open');    
+            jQuery(".ttm-search-overlay").addClass('st-show');                  
+        } else {
+            jQuery(this).removeClass('open').addClass('sclose');
+            jQuery( ".ttm-header-search-link a i" ).removeClass('ti-close').addClass('ti-search');  
+            jQuery(".ttm-search-overlay").removeClass('st-show');   
+        }   
+        event.preventDefault(); 
+    });
+
+
+	  </script>
+      <script>
+         function includeHTML() {
+           var z, i, elmnt, file, xhttp;
+           /*loop through a collection of all HTML elements:*/
+           z = document.getElementsByTagName("*");
+           for (i = 0; i < z.length; i++) {
+             elmnt = z[i];
+             /*search for elements with a certain atrribute:*/
+             file = elmnt.getAttribute("w3-include-html");
+             if (file) {
+               /*make an HTTP request using the attribute value as the file name:*/
+               xhttp = new XMLHttpRequest();
+               xhttp.onreadystatechange = function() {
+                 if (this.readyState == 4) {
+                   if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                   if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                   /*remove the attribute, and call this function once more:*/
+                   elmnt.removeAttribute("w3-include-html");
+                   includeHTML();
+                 }
+               }      
+               xhttp.open("GET", file, true);
+               xhttp.send();
+               /*exit the function:*/
+               return;
+             }
+           }
+         };
+      </script>
+      <script>
+         includeHTML();
+      </script>
+      <!--back-to-top start-->
+      <a id="totop" href="#top">
+      <i class="fa fa-angle-up"></i>
+      </a>
+      <!--back-to-top end-->
+      <!-- page end -->
+      <!-- Javascript -->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/tether.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/jquery.easing.js"></script>    
+      <script src="js/jquery-waypoints.js"></script>    
+      <script src="js/jquery-validate.js"></script> 
+      <script src="js/owl.carousel.js"></script>
+      <script src="js/jquery.prettyPhoto.js"></script>
+      <script src="js/numinate.min.js?ver=4.9.3"></script>
+      <script src="js/lazysizes.min.js"></script>
+      <script src="js/main.js"></script>
+      <!-- Revolution Slider -->
+      <script src="revolution/js/revolution.tools.min.js"></script>
+      <script src="revolution/js/rs6.min.js"></script>
+      <script src="revolution/js/slider.js"></script>
+      <!-- slideanimate-->
+      <script src="js/slideanimate.js"></script>
+      <!-- slideanimate-->
+
+      <!--animate-->
+      <script>
+         // For Demo purposes only (show hover effect on mobile devices)
+         [].slice.call( document.querySelectorAll('a[href="#"') ).forEach( function(el) {
+         	el.addEventListener( 'click', function(ev) { ev.preventDefault(); } );
+         } );
+      </script>
+      <!--animate-->
+      <script>
+         @media screen and (max-width: 70em){
+         .grid figure {
+               width: 48%;
+           }
+         }
+      </script>
+      <!--animate-->
+      <script src="js/animate/jquery.scroll-reveal.js"></script>
+      <script>
+         $.fn.scrollReveal();  
+      </script>
+      <!--animate-->
+      <script>
+         $(document).ready(function() {
+         	$("#accordian a").click(function() {
+         			var link = $(this);
+         			var closest_ul = link.closest("ul");
+         			var parallel_active_links = closest_ul.find(".active")
+         			var closest_li = link.closest("li");
+         			var link_status = closest_li.hasClass("active");
+         			var count = 0;
+         
+         			closest_ul.find("ul").slideUp(function() {
+         					if (++count == closest_ul.find("ul").length)
+         							parallel_active_links.removeClass("active");
+         			});
+         
+         			if (!link_status) {
+         					closest_li.children("ul").slideDown();
+         					closest_li.addClass("active");
+         			}
+         	})
+         })
+      </script>
+	   <!--search-->
+		
+		
+		
+   </body>
+</html>

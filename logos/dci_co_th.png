@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 173.1 39.3" style="enable-background:new 0 0 173.1 39.3;" xml:space="preserve">
+<style type="text/css">
+	.アーチ_x0020__x0028_グリーン_x0029_{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.st0{fill:none;}
+	.st1{fill:#54C3F1;}
+	.st2{fill:#0097E0;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-334.9378" y1="316.2978" x2="-334.2307" y2="315.5906">
+	<stop  offset="0" style="stop-color:#1DAB4A"/>
+	<stop  offset="0.9831" style="stop-color:#173519"/>
+</linearGradient>
+<g>
+	<rect x="-6.4" y="-6.2" class="st0" width="185.6" height="51.3"/>
+	<g>
+		<g>
+			<polygon class="st1" points="40.1,1.5 1.4,1.5 1.4,37.3 			"/>
+			<g>
+				<polygon points="20.7,1.5 1.4,1.5 1.4,19.4 				"/>
+			</g>
+		</g>
+		<g>
+			<polygon class="st2" points="94.2,9.3 89.1,29.5 98.1,29.5 103.1,9.3 			"/>
+			<path class="st2" d="M72.5,9.3L61,29.5h5.9l1.9-3.4h4.9H77l0.6,3.4h8.7L82.7,9.3H72.5z M73.8,21h-2l3.3-5.8l1.1,5.8H73.8z"/>
+			<polygon class="st2" points="135,9.3 129.9,29.5 138.9,29.5 143.9,9.3 			"/>
+			<polygon class="st2" points="131,9.3 121.8,9.3 114.2,15.9 115.8,9.3 107.3,9.3 102.2,29.5 110.8,29.5 112.5,22.5 117.1,29.5 
+				127.4,29.5 119.8,18.9 			"/>
+			<path class="st2" d="M53.6,9.3l-2.3,0H40.1l-5,20.2h11.1l4.4,0c6.2,0,12.3-4.6,12.3-11.7C62.8,9.6,53.6,9.3,53.6,9.3z M54,18.5
+				c0,0-0.6,6.6-6.2,6.6h-1.7h-1.5l2.8-10.9h2.9C51.4,14.1,54.3,14.4,54,18.5z"/>
+			<polygon class="st2" points="165.3,9.3 162.3,21.2 158.3,9.3 148.4,9.3 143.3,29.5 149.5,29.5 152.5,17.5 156.5,29.5 166.4,29.5 
+				171.4,9.3 			"/>
+		</g>
+	</g>
+</g>
+</svg>
